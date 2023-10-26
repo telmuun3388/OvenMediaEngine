@@ -1,0 +1,11 @@
+#Get input from the user
+num1 = float(input("Enter the first name:  "))
+num2 = float(input("Enter the first name:  "))
+
+#add the two numbers
+result = num1 + num2
+result2 = num1 - num2
+
+#display the result
+print(f"The sum of {num1} and {num2} is {result}")
+print(f"The sub of {num1} and {num2} is {result}")
